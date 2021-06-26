@@ -1,4 +1,4 @@
-package ru.job4j.weather_reactive;
+package ru.job4j.weatherreactive;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,9 +1,9 @@
-package ru.job4j.weather_reactive.service;
+package ru.job4j.weatherreactive.service;
 
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
-import ru.job4j.weather_reactive.entity.Weather;
+import ru.job4j.weatherreactive.entity.Weather;
 
 import java.util.Collections;
 import java.util.Comparator;

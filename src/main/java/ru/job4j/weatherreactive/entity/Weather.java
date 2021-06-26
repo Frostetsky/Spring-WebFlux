@@ -1,4 +1,4 @@
-package ru.job4j.weather_reactive.entity;
+package ru.job4j.weatherreactive.entity;
 
 import java.util.Objects;
 
